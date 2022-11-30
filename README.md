@@ -1,6 +1,6 @@
-# Hi, I'm Marcelo Garro!👋
-
 <img align="right" src="assets/yui-hirasawa.gif" width="200" height="200" style="border-radius: 50%">
+
+# Hi, I'm Marcelo Garro!👋
 
 <div align="left">
   <li>I'm 19 years old web developer from Peru.</li>
