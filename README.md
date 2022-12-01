@@ -1,4 +1,4 @@
-<img align="right" src="assets/yui-hirasawa.gif" width="200" height="200">
+<img align="right" src="assets/menhera-chan.gif" width="200" height="200">
 
 <h1 align="center">Hi, I'm Marcelo Garro!👋</h1>
 
