@@ -17,9 +17,20 @@ I'm 19 years old and I am very interested in the topic of web development. Curre
   <img alt="JavaScript" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50"/>
   <img alt="AngularTS" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" width="50" height="50"/>
 </div>
+<br>
 
 ___
 
 ## <img src="https://cdn-icons-png.flaticon.com/512/2881/2881355.png" width="20"> Stats
 <img src="https://github-readme-stats.vercel.app/api?username=SgtGarro&show_icons=true&theme=dracula" alt="GitHub Stats" width="47%" align="left"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SgtGarro&layout=compact" alt="Top Langs" width="47%" align="right"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SgtGarro&layout=compact&theme=dracula" alt="Top Langs" width="47%" align="right"/>
+<br clear="both">
+<br>
+
+## <img src="https://cdn-icons-png.flaticon.com/512/3143/3143442.png" width="20"> Projects
+<a href="https://github.com/SgtGarro/Responsive-Design-Maquetacion-Mobile-First">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=SgtGarro&repo=Responsive-Design-Maquetacion-Mobile-First&theme=swift" width="47%">
+</a>
+<a href="https://github.com/SgtGarro/News-HomePage-FrontendMentor">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=SgtGarro&repo=News-HomePage-FrontendMentor&theme=swift" width="47%">
+</a>
