@@ -35,3 +35,6 @@ ___
 <a href="https://github.com/SgtGarro/News-HomePage-FrontendMentor">
   <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=SgtGarro&repo=News-HomePage-FrontendMentor&theme=swift" width="47%">
 </a>
+<a href="https://github.com/SgtGarro/News-HomePage-FrontendMentor">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=SgtGarro&repo=platzi-tailwind&theme=swift" width="47%">
+</a>
