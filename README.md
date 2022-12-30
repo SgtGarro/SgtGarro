@@ -23,8 +23,8 @@ I'm 19 years old and I am very interested in the topic of web development. Curre
 ___
 
 ## <img src="https://cdn-icons-png.flaticon.com/512/2881/2881355.png" width="20"> Stats
-<img src="https://github-readme-stats.vercel.app/api?username=SgtGarro&show_icons=true&theme=dracula" alt="GitHub Stats" width="47%" align="left"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SgtGarro&layout=compact&theme=dracula" alt="Top Langs" width="47%" align="right"/>
+<img src="https://github-readme-stats.vercel.app/api?username=SgtGarro&show_icons=true&theme=dracula" alt="GitHub Stats" width="45%" align="left"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SgtGarro&layout=compact&theme=dracula" alt="Top Langs" width="45%" align="right"/>
 <br clear="both">
 <br>
 
