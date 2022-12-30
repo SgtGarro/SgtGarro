@@ -30,11 +30,8 @@ ___
 
 ## <img src="https://cdn-icons-png.flaticon.com/512/3143/3143442.png" width="20"> Projects
 <a href="https://github.com/SgtGarro/Responsive-Design-Maquetacion-Mobile-First">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=SgtGarro&repo=Responsive-Design-Maquetacion-Mobile-First&theme=swift" width="47%">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=SgtGarro&repo=Responsive-Design-Maquetacion-Mobile-First&theme=swift" width="40%">
 </a>
 <a href="https://github.com/SgtGarro/News-HomePage-FrontendMentor">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=SgtGarro&repo=News-HomePage-FrontendMentor&theme=swift" width="47%">
-</a>
-<a href="https://github.com/SgtGarro/platzi-tailwind">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=SgtGarro&repo=platzi-tailwind&theme=swift" width="47%">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=SgtGarro&repo=News-HomePage-FrontendMentor&theme=swift" width="40%">
 </a>
