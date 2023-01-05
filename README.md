@@ -38,3 +38,7 @@ ___
 <a href="https://github.com/SgtGarro/platzi-tailwind">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=SgtGarro&repo=platzi-tailwind&theme=swift" width="40%">
 </a>
+
+<a href="https://github.com/SgtGarro/interactive-rating">
+<img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=SgtGarro&repo=interactive-rating&theme=swift" width="40%">
+</a>
