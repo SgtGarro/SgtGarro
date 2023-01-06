@@ -42,3 +42,7 @@ ___
 <a href="https://github.com/SgtGarro/interactive-rating">
 <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=SgtGarro&repo=interactive-rating&theme=swift" width="40%">
 </a>
+
+<a href="https://github.com/SgtGarro/suite-landing-page">
+<img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=SgtGarro&repo=suite-landing-page&theme=swift" width="40%">
+</a>
