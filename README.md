@@ -16,7 +16,7 @@ const user = {
   occupation: "student",
 };
 
-const phrase = "Neverstop learning!";
+const phrase = "Don't stop learning!";
 ```
 
 ## Languages and Frameworks
