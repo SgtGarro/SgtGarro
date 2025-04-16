@@ -10,7 +10,7 @@ I'm a passionate young peruvian guy for web development, Front-end exactly. You 
 const user = {
   firstName: "Marcelo",
   lastName: "Garro",
-  age: "21",
+  age: "22",
   email: "marcelogarro137@gmail.com",
   nickname: "SgtGarro",
   occupation: "student",
